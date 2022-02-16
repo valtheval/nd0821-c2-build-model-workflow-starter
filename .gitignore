@@ -113,3 +113,5 @@ mlruns/
 outputs/
 random_forest_dir/
 multirun/
+src/basic_cleaning/artifacts/
+src/basic_cleaning/wandb/
